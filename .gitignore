@@ -131,3 +131,4 @@ dmypy.json
 # Pycharm IDE
 .idea
 /truecaser/spanish.dist
+models/roberta_model_for_anonimization/
